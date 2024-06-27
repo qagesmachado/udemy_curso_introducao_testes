@@ -1,18 +1,16 @@
 # Objetivos do teste de software
 
-Primeiramente precisamos entender que os testes dependem do contexto. Isso é justamente um dos princípios de teste que o Syllabus nos ensina para a CTFL.
+Primeiramente precisamos entender que os testes dependem do contexto. Isso é justamente um dos princípios de teste que o Syllabus nos mostra, que é cobrado em provas de certificação e que é usado a todo momento no nosso dia a dia.
 
-Então perguntas como essas são fáceis de se responder agora. Menos a última, a respeito dela precisaremos entender de fatos os objetivos de teste para responde-la
-
+De modo, a discutir sobre esse assunto podemos pensar em 2 perguntas iniciais:
 - Todo teste é igual?
 - Testamos sempre com os mesmos objetivos?
-- O que de fato os testes querem nos mostrar?
 
-Então para as 2 primeiras perguntas a resposta é simples e direta: 
+Para essas perguntas a resposta é simples e direta: 
     
-    NÃO, os testes não todos iguais. E dependendo do que estamos testando os teste terão obejtivos diferentes.
+    NÃO, os testes não todos iguais. E dependendo do que estamos testando os teste terão objetivos diferentes.
 
-Os teste podem variar em tipos e níveis e cada um desses testes terá contextos diferentes logo teremos obejtivos específicos diferentes.
+Os teste podem variar em tipos e níveis e cada um desses testes terá contextos diferentes logo teremos objetivos específicos diferentes.
 
 Falando sobre objetivos gerais dos testes o Syllabus trás uma série de objetivos. Entre eles podemos citar:
 
@@ -30,7 +28,7 @@ Falando sobre objetivos gerais dos testes o Syllabus trás uma série de objetiv
 
 - Cumprimento de requisitos ou normas contratuais, legais ou regulamentares, ou verificar a conformidade do objeto de teste com esses requisitos ou normas.
 
-Exemplificando de forma breve, nós temos ainda os objtivos específicos dos testes. Observe os dois exemplos a seguir:
+Exemplificando de forma breve, nós temos ainda os objetivos específicos dos testes. Observe os dois exemplos a seguir:
 
 TESTES DE COMPONENTES:   
 
@@ -39,7 +37,6 @@ TESTES DE COMPONENTES:
 TESTE DE ACEITE:
 
     "Durante o teste de aceite, um objetivo pode ser confirmar que o sistema funciona como esperado e satisfaz os requisitos. Outro objetivo deste teste pode ser fornecer informações aos stakeholders sobre o risco de liberar o sistema em um determinado momento."
-
 
 Referências
 - Foundation Level Syllabus CTFL v.4.0 

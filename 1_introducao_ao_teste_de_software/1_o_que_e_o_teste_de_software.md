@@ -2,14 +2,9 @@
 
 O ponto crucial nesse momento é sabe definir o que é teste, então vamos trabalhar nisso.
 
-Primeiramente devemo entender que Um software que não funciona corretamente pode causar muito problemas, tais como:
+A primeira coisa que devemos entender é que o teste de software é uma etapa muito importante para garantir o funcionamento de partes críticas de um produto, seja qual for.
 
-- Perda de dinheiro
-- Perda de tempo
-- Perda de reputação comercial
-- Ferimentos ou morte
-
-Desta forma, o teste de software torna-se uma etapa muito importante para garantir o funcionamento de partes críticas de um produto.
+Logo, a falta do teste pode levar não detecção de bugs na fase de desenvolvimento do produto e ocasionalmente esses bugs esses defeitos nó código serão descobertos pelos cliente os que tornarão muito mais impactantesd.
 
 Podemos afirmar categoricamente que O teste é sim ESSENCIAL para garantir um bom funcionamento do produto.E os testes rigorosos da aplicação e de sua documentação podem ajudar a reduzir os riscos de falhas durante operação.
 
@@ -19,7 +14,7 @@ No entanto é muito comum que pessoas que ainda não entendem o que é teste pen
 - Clicar em botões, preencher campos
 - Avaliar o resultado esperado de uma funcionalidade
 
-O teste de software é um processo e a etapa de teste é apenas uma das várias etapas existentes.
+O teste de software é um processo e a etapa de teste é apenas uma das várias etapas existentes (iremos trabalhar em cima de cada uma dessas etapas em momentos futuros).
 
 Por fimm podemos concluir definindo teste da seguinte forma:
 

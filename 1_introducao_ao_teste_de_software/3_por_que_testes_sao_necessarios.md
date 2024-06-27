@@ -9,7 +9,7 @@ Primeiro vamos recapitular dois pontos extremamente importantes: Definição de 
     - Encontrar defeitos e falhas
     - Melhorar a qualidade do produto
 
-Entendendo isso já conseguimos ter uma ideia da importância deles devido todos os passo que esse processo irá cobrir e ao alcançar esse obejtivos espera-se que o obejto de teste esteja melhor preparado para o cliente.
+Entendendo isso já conseguimos ter uma ideia da importância deles devido todos os passos que esse processo irá cobrir e ao alcançar esse objetivos espera-se que o objeto de teste esteja melhor preparado para o cliente.
 
 ## E se não tivéssemos testes
 
@@ -20,6 +20,15 @@ Na minha opinião a ausência completa de testes seria muito difícil se não im
     O ato de julgar alguma coisa poderia ser considerado um teste
 
 No entanto, comom já mencionado antes a falta de testes direcionados e efetivos afetariam diretamente a qualidade do produto.
+
+Primeiramente devemo entender que Um software que não funciona corretamente pode causar muito problemas, tais como:
+
+- Perda de dinheiro
+- Perda de tempo
+- Perda de reputação comercial
+- Ferimentos ou morte
+
+
 
 ## Por que testar?
 
